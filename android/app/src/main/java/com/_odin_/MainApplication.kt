@@ -1,4 +1,4 @@
-package com._odin_
+package com.odin
 
 import android.app.Application
 import com.facebook.react.PackageList

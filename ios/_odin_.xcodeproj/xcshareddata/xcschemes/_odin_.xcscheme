@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "_odin_.app"
-               BlueprintName = "_odin_"
-               ReferencedContainer = "container:_odin_.xcodeproj">
+               BuildableName = "odin.app"
+               BlueprintName = "odin"
+               ReferencedContainer = "container:odin.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "_odin_Tests.xctest"
-               BlueprintName = "_odin_Tests"
-               ReferencedContainer = "container:_odin_.xcodeproj">
+               BuildableName = "odinTests.xctest"
+               BlueprintName = "odinTests"
+               ReferencedContainer = "container:odin.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "_odin_.app"
-            BlueprintName = "_odin_"
-            ReferencedContainer = "container:_odin_.xcodeproj">
+            BuildableName = "odin.app"
+            BlueprintName = "odin"
+            ReferencedContainer = "container:odin.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "_odin_.app"
-            BlueprintName = "_odin_"
-            ReferencedContainer = "container:_odin_.xcodeproj">
+            BuildableName = "odin.app"
+            BlueprintName = "odin"
+            ReferencedContainer = "container:odin.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
